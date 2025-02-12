@@ -1,0 +1,17 @@
+.title {
+    background-color: black;
+    color: green;
+    font-size: 75px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+.recipeName {
+    background-color: black;
+    color: red;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    text-align: left;
+}
