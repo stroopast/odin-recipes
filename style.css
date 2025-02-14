@@ -1,5 +1,5 @@
 .title {
-    background-color: black;
+    background-color: white;
     color: green;
     font-size: 75px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -8,10 +8,56 @@
 }
 
 .recipeName {
-    background-color: black;
+    background-color: white;
     color: red;
     font-size: 35px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 600;
     text-align: left;
+}
+
+.smalltitleh2 {
+    background-color: white;
+    color: blueviolet;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+.smalltitleh3 {
+    background-color: white;
+    color: palevioletred;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+ul {
+    background-color: white;
+    color: brown;
+    font-size: 15px;
+}
+
+li {
+    background-color: white;
+    color: brown;
+    font-size: 15px;
+}
+
+p {
+    background-color: white;
+    color: brown;
+    font-size: 15px;
+}
+
+a {
+    background-color: white;
+    color: blueviolet;
+    font-size: 35px;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
 }
